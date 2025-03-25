@@ -1,13 +1,13 @@
 .landscape {
-    width: 50%;
-    max-width: 50%;
-    min-width: 40%;
+    width: 65%;
+    max-width: 65%;
+    min-width: 50%;
 }
 
 .portrait{
     width: 30%;
     max-width: 30%;
-    min-width: 18%;
+    min-width: 25%;
 }
 
 /*@media only screen and (max-width: 600px) {
