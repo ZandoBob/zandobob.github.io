@@ -12,14 +12,14 @@
 
 body {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    font-size:1.5rem;
+    font: size 1.6rem;
     text-align: center;
     text-transform: lowercase;
 }
 
 pre {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     text-align: center;
     white-space: pre-line;
     text-transform: lowercase;
