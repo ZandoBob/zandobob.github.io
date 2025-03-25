@@ -1,12 +1,12 @@
 .landscape {
     width: 60%;
-    max-width: 100%;
+    max-width: 60%;
     min-width: 20%;
 }
 
 .portrait{
     width: 50%;
-    max-width: 100%;
+    max-width: 60%;
     min-width: 20%;
 }
 
