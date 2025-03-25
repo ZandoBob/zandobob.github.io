@@ -10,6 +10,12 @@
     min-width: 20%;
 }
 
+@media only screen and (max-width: 600px) {
+    html {
+        font-size: 25px
+    }
+}
+
 body {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
     font: size 1.6rem;
