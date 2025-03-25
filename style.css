@@ -5,9 +5,7 @@
 }
 
 .portrait{
-    width: 30%;
-    max-width: 30%;
-    min-width: 25%;
+    width: 34%;
 }
 
 /*@media only screen and (max-width: 600px) {
@@ -19,14 +17,14 @@
 
 body {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     text-align: center;
     text-transform: lowercase;
 }
 
 pre {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     text-align: center;
     white-space: pre-line;
     text-transform: lowercase;
