@@ -1,0 +1,25 @@
+.landscape {
+    width: 60%;
+    max-width: 100%;
+    min-width: 20%;
+}
+
+.portrait{
+    width: 50%;
+    max-width: 100%;
+    min-width: 20%;
+}
+
+body {
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+pre {
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    white-space: pre-line;
+    text-transform: lowercase;
+}
