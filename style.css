@@ -1,11 +1,9 @@
 .landscape {
-    width: 65%;
-    max-width: 65%;
-    min-width: 50%;
+    width: 50%;
 }
 
 .portrait{
-    height: 8%;
+    width: 25%;
 }
 
 body {
