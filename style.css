@@ -8,23 +8,16 @@
     width: 34%;
 }
 
-/*@media only screen and (max-width: 600px) {
-    html {
-        font-size: 16px
-    }
-}
-*/
-
 body {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     text-align: center;
     text-transform: lowercase;
 }
 
 pre {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     text-align: center;
     white-space: pre-line;
     text-transform: lowercase;
